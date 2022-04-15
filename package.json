@@ -1,0 +1,8 @@
+{
+  "name": "Test1",
+  "version": "1.0.0",
+  "description": "Test for recruitery",
+  "main": "index.js",
+  "author": "mineloop99",
+  "license": "MIT"
+}
